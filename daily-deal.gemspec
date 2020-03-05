@@ -6,7 +6,7 @@ require 'daily/deal/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'daily_deal'
-  spec.version       = Daily::Deal::VERSION
+  spec.version       = DailyDeal::VERSION
   spec.authors       = ['Rich']
   spec.email         = ['rpavesi84@gmail.com']
 
